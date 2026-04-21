@@ -49,7 +49,7 @@ I'm a **medical doctor transitioning into clinical data science and AI/ML engine
 
 ## 📚 Featured Projects
 
-### 🌙 [Sleep Health and Lifestyle Analysis](Sleep%20Health%20and%20Lifestyle/)
+### 🌙 [Sleep Health and Lifestyle Analysis](https://github.com/Little-Ifrit/Sleep-Health-and-Lifestyle)
 **Clinical Analytics | Predictive Modeling | Statistical Testing**
 
 Comprehensive analysis of 375+ individuals to identify critical factors influencing sleep disorders and their relationship with lifestyle metrics.
@@ -66,7 +66,7 @@ Comprehensive analysis of 375+ individuals to identify critical factors influenc
 
 ---
 
-### 🛒 [Supermarket Loyalty Program - Spend Prediction](Sample%20Exam%20Data%20Scientist%20Associate/)
+### 🛒 [Supermarket Loyalty Program - Spend Prediction](https://github.com/Little-Ifrit/Sample-Exam-Data-Scientist-Associate)
 **Machine Learning | Regression | Business Analytics**
 
 Developed ML models to predict customer spending in loyalty programs, enabling accurate reward program cost estimation and customer segmentation.
@@ -83,7 +83,7 @@ Developed ML models to predict customer spending in loyalty programs, enabling a
 
 ---
 
-### 🚴 [VoltBike E-Bike Data Analytics](Sample%20Exam%20Python%20data%20associate/)
+### 🚴 [VoltBike E-Bike Data Analytics](https://github.com/Little-Ifrit/Sample-Exam-Python-Data-Associate)
 **Data Cleaning | Quality Assurance | Exploratory Analysis**
 
 Comprehensive data analysis for electric bike manufacturer addressing production cost management and customer satisfaction.
