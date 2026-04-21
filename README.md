@@ -189,8 +189,8 @@ I'm actively seeking opportunities to:
 
 ### How to Reach Me
 
-- 📧 **Email**: [Your Email Here]
-- 💼 **LinkedIn**: [Your LinkedIn Profile]
+- 📧 **Email**: nnenna.okore@gmail.com
+- 💼 **LinkedIn**: [Jessica Okore-Kalu](https://www.linkedin.com/in/jessica-okore-kalu-355415158/)
 - 🐙 **GitHub**: [Little-Ifrit](https://github.com/Little-Ifrit)
 - 💬 **Open to**: Project collaborations, mentorship, and professional discussions
 
